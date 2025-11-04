@@ -14,7 +14,7 @@ class LoginView extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
               Text(
-                'A D School',
+                'A DH School',
                 textAlign: TextAlign.center,
                 style: Theme.of(context).textTheme.displayLarge?.copyWith(
                       fontFamily: 'Stylish',
